@@ -39,6 +39,14 @@ cc lex.yy.c -ll
 ## Prorams Links
 
 [Program 1](program1/)
+[Program 2](program2/)
+[Program 3](program3/)
+[Program 4](program4/)
+[Program 5](program5/)
+[Program 6](program6/)
+[Program 7](program7/)
+[Program 8](program8/)
+[Program 9](program9/)
 
 
 ### Some Execution methods will be written in the same folder
