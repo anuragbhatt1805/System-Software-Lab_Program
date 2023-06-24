@@ -11,7 +11,12 @@ Make a text file
 gedit sample.txt
 ```
 
-Make a YACC/C file
+Make a YACCC file
+```
+gedit sample.y
+```
+
+Make a C file
 ```
 gedit sample.c
 ```
@@ -48,5 +53,6 @@ cc lex.yy.c -ll
 [Program 8](program8/)
 [Program 9](program9/)
 
+---
 
 ### Some Execution methods will be written in the same folder
