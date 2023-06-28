@@ -1,2 +1,6 @@
 ./a.out
 ./*/a.out
+*/a.out
+*/y.tab.h
+*/lex.yy.c
+*/y.tab.c
