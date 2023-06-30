@@ -4,6 +4,20 @@
 
 ---
 
+## Starting CodeSpace for practice
+
+- Click on Code Button
+- If Codespace is enabled, then select the code space, Else
+- Select Codespace Option and click on create a new CodeSpace
+- Select your CodeSpace Attributes and make sure you choose linux only.
+- Open the CodeSpace and let it start up.
+- Go to terminal and run the following commands:
+```
+bash run.sh
+```
+
+You can now practice the code
+
 ## How to create the file
 
 Make a text file
