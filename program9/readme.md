@@ -11,6 +11,6 @@ Commands:
 gedit program9.c
 ```
 ```
-gcc program8.c
+gcc program9.c
 ./a.out
 ```
