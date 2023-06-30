@@ -28,7 +28,7 @@ gedit sample.l
 
 ## How to execute the file
 
-Execute a C/YACC file
+Execute a C file
 ```
 gcc sample.c
 ./a.out
